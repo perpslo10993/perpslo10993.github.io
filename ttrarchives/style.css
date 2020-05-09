@@ -5,7 +5,7 @@ body {
     background-color: #010101;
 }
 
-logo {
+.logo {
     content: url(https://perpslo10993.github.io/ttrarchives/ttrarchiveslogo.png);
     margin: auto;
 }
